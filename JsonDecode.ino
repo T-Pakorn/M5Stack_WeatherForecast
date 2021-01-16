@@ -13,7 +13,7 @@ WiFiClient client;
 // Name address for Open Weather Map API
 const char* server = "api.openweathermap.org";
 // Replace with your unique URL resource
-const char* resource = "https://api.openweathermap.org/data/2.5/onecall?lat=13.736717&lon=100.523186&%20exclude=hourly,daily&appid=54ad70d4572d90e3c1421882fc38756a&units=metric";
+const char* resource = "[Your OpenWeatherMap Token]";
 // How your resource variable should look like, but with your own COUNTRY CODE, CITY and API KEY (that API KEY below is just an example):
 //const char* resource = "/data/2.5/weather?q=Porto,pt&appid=bd939aa3d23ff33d3c8f5dd1";
 
